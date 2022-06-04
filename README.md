@@ -13,7 +13,7 @@ Linux icin:
 
 ```cd kodluyoruzilkrepo```
 
-```code```
+```code .```
 
 ## Contributing
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
